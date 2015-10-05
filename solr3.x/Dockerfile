@@ -1,4 +1,4 @@
-FROM blinkreaction/drupal-solr:base
+FROM devinci/drupal-solr:base
 
 MAINTAINER Leonid Makarov <leonid.makarov@blinkreaction.com>
 
